@@ -1,5 +1,6 @@
 # Chat-server-java  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+This server is used with a javafx app for an instant chat 
 ## How it works
 1. associates a thread to every client that connects to it
 2. handles every client in a different thread
